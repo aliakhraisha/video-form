@@ -1,0 +1,150 @@
+body{
+    background:burlywood
+  }
+  #header{
+   display:flex;
+   justify-content:space-around;
+   background-color:brown;
+   margin:20
+  }
+  
+  #header-img{
+    width:10rem;
+    height:2rem
+    
+  }
+  
+  ul{
+    display:flex;
+    list-style:none;
+    
+  }
+  
+  li{
+    margin:4;
+    cursor:pointer;
+    font-size:20px;
+    font:bold;
+     
+     
+  }
+  a{
+    color:white;
+    text-decoration:none
+  }
+  a:hover{
+    border:1px solid black;
+    padding:5
+  }
+  
+  #video{
+    width:70%;
+    display:block;
+   margin: auto;
+  
+    
+  }
+  h1{
+    text-align:center;
+    color:white;
+  
+  }
+  #form{
+    margin-top:2rem
+    
+  }
+  #email{
+    display:block;
+    margin:auto;
+    padding:5
+  }
+  #submit{
+     display:block;
+    margin:auto;
+    margin-top:4;
+    padding:5
+  }
+  
+  #footer{
+    background-color:brown;
+    padding:10;
+    color:white;
+    text-align:center;
+    font-size:20
+  }
+  @media (mixwidth:780){
+    body{
+    background:burlywood
+  }
+  #header{
+   display:flex;
+   justify-content:space-around;
+   background-color:brown;
+   margin:20
+  }
+  
+  #header-img{
+    width:10rem;
+    height:2rem
+    
+  }
+  
+  ul{
+    display:flex;
+    list-style:none;
+    
+  }
+  
+  li{
+    margin:4;
+    cursor:pointer;
+    font-size:20px;
+    font:bold;
+     
+     
+  }
+  a{
+    color:white;
+    text-decoration:none
+  }
+  a:hover{
+    border:1px solid black;
+    padding:5
+  }
+  
+  #video{
+    width:70%;
+    display:block;
+   margin: auto;
+  
+    
+  }
+  h1{
+    text-align:center;
+    color:white;
+  
+  }
+  #form{
+    margin-top:2rem
+    
+  }
+  #email{
+    display:block;
+    margin:auto;
+    padding:5
+  }
+  #submit{
+     display:block;
+    margin:auto;
+    margin-top:4;
+    padding:5
+  }
+  
+  #footer{
+    background-color:brown;
+    padding:10;
+    color:white;
+    text-align:center;
+    font-size:20
+  }
+  }
